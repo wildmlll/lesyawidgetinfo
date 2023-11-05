@@ -1,10 +1,10 @@
 Credits:
 
-Developed & coded by Maksym Hanych
+Developed & coded by Maksym Hanych 
 Pictures by Anastasiia Ostrova 
-Main beta-testing by Pavlo Pavlovskyi, Anastasiia Ostrova, Zoryana Bayrak
-All pictures and code are property off Maksym Hanych.
-Idea by pmll group
+Main testers: Pavlo Pavlovskyi, Anastasiia Ostrova, Zoryana Bayrak.
+All pictures and code are property of Maksym Hanych and pmll group.
+
 
 ---
 
