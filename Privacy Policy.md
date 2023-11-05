@@ -1,15 +1,5 @@
-
-Credits:
-
-Developed & coded by Maksym Hanych
-Pictures by Anastasiia Ostrova 
-Main beta-testing by Pavlo Pavlovskyi, Anastasiia Ostrova, Zoryana Bayrak
-All pictures and code are property off Maksym Hanych.
-Idea by pmll group
-
----
-
 Privacy policy of lesyawidget:
+
 
 This privacy policy applies to the lesyawidget mobile application developed by Maksym Hanych and pmll group.
 
